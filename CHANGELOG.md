@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-11-03)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`4ef16a9`](https://github.com/stdlib-js/stdlib/commit/4ef16a9543f64c08353ed2ca36e9b7c853e12b2e) - **docs:** remove `API_SUFFIX` wrapper to be consistent with documentation elsewhere _(by Athan Reines)_
 -   [`4ffdd6f`](https://github.com/stdlib-js/stdlib/commit/4ffdd6f38573917b19340e1558f1ea256efe7fe7) - **bench:** fix require paths _(by Athan Reines)_
 -   [`ac5a52a`](https://github.com/stdlib-js/stdlib/commit/ac5a52a07997fe35cf820241c5c9b824fecf7939) - **refactor:** add support for enums in `blas/ext/base/*tril` [(#14884)](https://github.com/stdlib-js/stdlib/pull/14884) _(by Kaustubh Patange)_
@@ -38,10 +39,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Kaustubh Patange
+-   Philipp Burckhardt
 
 </section>
 
